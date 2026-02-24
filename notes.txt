@@ -6,3 +6,5 @@
 -- tiempo dedicado hoy 1hrs
 
 -- Desafios
+
+- Alinear el contenido a la derecha del card
